@@ -39,7 +39,7 @@ Built with `yt-dlp`, this CLI application offers a user-friendly interface to do
    - **Linux**: `sudo apt-get install ffmpeg` (Ubuntu/Debian) or equivalent.
 4. Run the script:
    ```bash
-   python3 simple_pirate.py
+   python3 SmplPyrate.py
    ```
 
 ---
